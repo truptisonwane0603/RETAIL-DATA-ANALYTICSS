@@ -1,0 +1,31 @@
+-- These are designed to mirror common SQL interview challenges.
+
+-- Easy
+-- Top 5 selling products
+-- Highest revenue customer
+-- Monthly order count
+-- Average order value
+-- Customers by state
+-- Medium
+-- Repeat customers
+-- Top seller per state
+-- Category with highest revenue
+-- Monthly revenue trend
+-- Average delivery time
+-- Products never sold
+-- Revenue by payment type
+-- Customer lifetime value
+-- Seller performance
+-- Freight percentage
+-- Hard
+-- Running monthly revenue using window functions
+-- Month-over-month revenue growth with LAG()
+-- Top 3 products per category using ROW_NUMBER()
+-- Customer spending percentile using NTILE(4)
+-- Rank sellers by state using PARTITION BY
+-- CTE for high-value customers
+-- CTE for high-value customers
+-- Cumulative customer count
+-- Rolling 3-month revenue average
+-- Cohort-style monthly customer acquisition (basic)
+-- Revenue contribution percentage by category

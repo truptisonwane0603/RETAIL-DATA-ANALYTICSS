@@ -1,0 +1,33 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables / secrets
+.env
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local datasets and generated artifacts
+data/
+database/*.db
+database/*.sqlite
+database/*.sqlite3
+database/*.sqbpro
+models/
+logs/
+outputs/
+powerbi/*.pbix
+powerbi/data/
